@@ -12,7 +12,7 @@ When a consumer is sued by a debt buyer or original creditor, several common def
 
 ## Jurisdictions
 
-Jurisdiction-specific data (statutes of limitations, citations, court forms) lives in [`jurisdictions/`](jurisdictions/). Initial target jurisdictions: New York City and Cook County, Illinois.
+Jurisdiction-specific data (statutes of limitations, citations, court forms) lives in [`jurisdictions/`](jurisdictions/). Initial target jurisdiction: **Los Angeles County, California**. Additional jurisdictions may be added once the first is validated.
 
 ## Scope and limits
 

@@ -11,10 +11,10 @@ description: "Screen a consumer debt collection matter for common defenses and p
 ## Skill metadata
 
 - **Version:** 0.1.0 (draft)
-- **Jurisdictions covered:** (none yet — target: New York City; Cook County, IL)
-- **Last reviewed:** (not yet reviewed)
-- **Supervising attorney:** (to be assigned)
-- **Legal frameworks:** Fair Debt Collection Practices Act (FDCPA, 15 U.S.C. § 1692 et seq.); state statutes of limitations; state consumer protection / UDAP statutes; applicable civil procedure rules.
+- **Jurisdictions covered:** none validated yet — target: Los Angeles County, California
+- **Last reviewed:** not yet reviewed
+- **Supervising attorney:** Andrew M Cohen
+- **Legal frameworks:** Fair Debt Collection Practices Act (FDCPA, 15 U.S.C. § 1692 et seq.); California statutes of limitations (e.g., Code of Civil Procedure § 337); Rosenthal Fair Debt Collection Practices Act (Cal. Civ. Code § 1788 et seq.); California Fair Debt Buying Practices Act (Cal. Civ. Code § 1788.50 et seq.); applicable California civil procedure rules.
 
 ## Important scope statement
 
@@ -41,8 +41,8 @@ _To be drafted: the structured questions or document fields the skill gathers �
 _To be drafted: the legal analysis applied to the intake, including:_
 - _Statute of limitations check (using the jurisdiction data)._
 - _Chain-of-title / standing analysis._
-- _FDCPA validation-notice and conduct analysis._
-- _State consumer protection / UDAP screen._
+- _FDCPA and Rosenthal Act validation-notice and conduct analysis._
+- _California Fair Debt Buying Practices Act screen._
 - _Jurisdictional and procedural defenses._
 
 ### 4. Output

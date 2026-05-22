@@ -2,10 +2,11 @@
 
 This folder holds **jurisdiction-specific data** referenced by the skills in this plugin. Keeping jurisdiction data separate from skill logic means adding or updating a jurisdiction is a data change, not a rewrite of the skill.
 
-Each jurisdiction gets its own file, for example:
+The first target jurisdiction is **Los Angeles County, California**. Each jurisdiction gets its own file, for example:
 
-- `nyc.md` — New York City: statute of limitations on consumer debt, relevant statutes (e.g. CPLR, General Business Law), court forms, filing procedures, timelines.
-- `cook-county.md` — Cook County, Illinois: statute of limitations, Illinois Consumer Fraud Act, court forms, procedures, timelines.
+- `los-angeles-county.md` — Los Angeles County, California: statute of limitations on consumer debt (e.g., Code of Civil Procedure § 337, four years for written contracts), the Rosenthal Fair Debt Collection Practices Act (Cal. Civ. Code § 1788 et seq.), the California Fair Debt Buying Practices Act (Cal. Civ. Code § 1788.50 et seq.), Los Angeles Superior Court forms and procedures, and timelines.
+
+As additional jurisdictions are added, each gets its own file alongside this one.
 
 ## What belongs in a jurisdiction file
 
