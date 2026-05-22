@@ -1,0 +1,13 @@
+{
+  "name": "a2j-claude-legal-plugins",
+  "owner": {
+    "name": "Andrew M Cohen"
+  },
+  "plugins": [
+    {
+      "name": "consumer-debt",
+      "source": "./consumer-debt",
+      "description": "Access-to-justice workflows for consumer debt collection defense. Helps screen debt collection cases against the FDCPA, statute of limitations, and chain-of-title requirements, in support of self-represented litigants and the attorneys who supervise them."
+    }
+  ]
+}
